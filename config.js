@@ -1,4 +1,4 @@
-export const nameBand = 'KENDRICK LAMAR';
+export const nameBand = ' KENDRICK LAMAR';
 export const nameSongs = [
 	"ALL THE STARS", /*1*/
 	"HUMBLE", /*2*/
